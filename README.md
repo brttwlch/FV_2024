@@ -1,0 +1,1 @@
+This repo contains additional information for the poster Integrating Contemporary Methods in Personality Science to Re-Examine the Trait Theory of Voice Disorders presented at the Fall Voice Conference 2024.
